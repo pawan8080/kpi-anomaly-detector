@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+alerts.csv
+anomaly_report.md
+.DS_Store
